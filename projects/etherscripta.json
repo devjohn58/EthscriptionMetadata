@@ -1,0 +1,41 @@
+[
+	{
+		"name": "etherscripta",
+		"inscription_icon": "0xcf7c8eb68c23a3aa17211fb19de5ac1555c128f738efdb46049edccdc1ee090f",
+		"supply": "2",
+		"slug": "etherscripta",
+		"description": "etherscripta",
+		"twitter_link": "https://twitter.com/",
+		"discord_link": "non",
+		"website_link": "non",
+		"background_color": "#5c5d5c",
+		"inscriptions": [
+			{
+				"id": "0xcf7c8eb68c23a3aa17211fb19de5ac1555c128f738efdb46049edccdc1ee090f",
+				"meta": {
+					"name": "etherscripta #0",
+					"attributes": [
+						{
+							"trait_type": "collection",
+							"value": "etherscripta"
+						}
+					]
+				},
+				"number": "0"
+			},
+			{
+				"id": "0xb78b04853edf96c7c910012116a3db7da7e8e99d72e90b4a744e22c398a39cb2",
+				"meta": {
+					"name": "etherscripta #1",
+					"attributes": [
+						{
+							"trait_type": "collection",
+							"value": "etherscripta"
+						}
+					]
+				},
+				"number": "1"
+			}
+		]
+	}
+]
